@@ -7,7 +7,7 @@ de variables de entorno hasta el uso de herramientas de calidad de código y con
 > El proyecto usa husky para validar buenas practicas.
 > Si algun paso falla, por favor, ejecute manualmente el comando para saber que fallo.
 >
-> Ejemplo:
+> Ejemplo: 
 >
 > ```bash
 > $ git push origin main
